@@ -1,8 +1,7 @@
-Webot
-=====
+Cbot
+====
 
-Web crawler for data of interest.
-
+A web crawler of e-commerce to visualize commodity.
 
 ## Feature
 	
